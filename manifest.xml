@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://api.codemagic.io/artifacts/.eJwVwcuWQzAAANB_6b7neFQki1mgQ6mqqErZOI1KRcl41FBfP2fu3TyNf2bfCFE2H0kjfNBvq9K8iIV-IS8dm0veWMLR1s4GwysFPHkL9lxfYcDdfcYwEfGC0gXuT-FhDuGk3adB2WWnMjhe9dQJtPFxR2bPPgTYHiVbubGwz-urUB8lwIMofDp60k9n7gK7uikFZixJI4UKb8mkvHFReI9dqWqtS-tCiMxdDQSV66OInXqOkjNgnLdNeNlLzhzf0haPA-10oqWBmigQ4sNUkCrrQL7QKco_lyw3Cghl63sF6HiItlXiD86c977as_cYv6DR0VSPXRa5eIIhUlklsSAXIKMPECleLZOg-Nr8AXvnZ_M.jVtlXth8HOFe5hBQwc5INPzNpN4</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.vantadrift.arena</string>
+        <key>bundle-version</key>
+        <string>0.9.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>VANTADRIFT</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
